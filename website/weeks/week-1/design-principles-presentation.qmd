@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization: Design Principles and Processes"
 subtitle: "SMM635 - Week 1"
-author: "Prof. Simone Santoni"
+author: "Simone Santoni"
 institute: "Bayes Business School"
 format:
   revealjs:
